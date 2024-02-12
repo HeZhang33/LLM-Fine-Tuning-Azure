@@ -24,6 +24,25 @@ The first step in creating a custom model is to choose a base model.
 The **Base model** pane lets you choose a base model to use for your custom model. Select the base model from the **Base model type** dropdown, and then select **Next** to continue.
 <ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/base-model.png" alt="Screenshot that shows how to select the base model in the Create custom model wizard in Azure OpenAI Studio." width="600"/></ol>
 
+### Step 3: Choose your *Training data*
+The next step is to choose your training data either from the previously uploaded one or by uploading a new one.
+<ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-training-data.png" alt="Screenshot of the Training data pane for the Create custom model wizard in Azure OpenAI Studio." width="600"/></ol>
+
+To upload a new training data, you can use one of the following options:
+* Select **Local file** to upload training data from a local file.
+  <ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-training-data-local.png" alt="Screenshot of the Training data pane for the Create custom model wizard, with local file options." width="600"/></ol>
+* Select **Azure blob or other shared web locations** to import training data from Azure Blob or another shared web location.
+  <ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-training-data-blob.png" alt="Screenshot of the Training data pane for the Create custom model wizard, with Azure Blob and shared web location options." width="600"/></ol>
+
+### Step 4 (Optional): Choose your *Validation data*
+You can choose your validation data by following the similar pattern as you upload your training data.
+<ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-validation-data.png" alt="Screenshot of the Validation data pane for the Create custom model wizard in Azure OpenAI Studio." width="600"/></ol>
+
+
+  
+  
+
+
 
 
 
