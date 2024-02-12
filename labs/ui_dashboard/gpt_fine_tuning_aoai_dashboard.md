@@ -13,10 +13,28 @@ Learn how to fine-tune a GPT model using Azure OpenAI Studio - UI Dashboard.
 
 You can check the MS Learn document [here](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio) for more details.
 
+### Step 1: Open the *Create a custom model* wizard
+1. Open Azure OpenAI Studio at [https://oai.azure.com/](https://oai.azure.com/) and sign in with credentials that have access to your Azure OpenAI resource. During the sign-in workflow, select the appropriate directory, Azure subscription, and Azure OpenAI resource.
+2. In Azure OpenAI Studio, browse to the **Management > Models** pane, and select **Create a custom model**.
+<ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-create-custom-model.png" alt="Screenshot of the Training data pane for the Create custom model wizard, with local file options." width="600"/></ol>
 
-<ol>
-<li><p>Open Azure OpenAI Studio at <a href="https://oai.azure.com/" target="_blank" data-linktype="external">https://oai.azure.com/</a> and sign in with credentials that have access to your Azure OpenAI resource. During the sign-in workflow, select the appropriate directory, Azure subscription, and Azure OpenAI resource.</p>
-</li>  
-<img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-create-custom-model.png" alt="Screenshot of the Training data pane for the Create custom model wizard, with local file options." width="800"/>
+### Step 2: Select the *Base model*
+The first step in creating a custom model is to choose a base model. 
 
-</ol>
+The **Base model** pane lets you choose a base model to use for your custom model. Select the base model from the **Base model type** dropdown, and then select **Next** to continue.
+<ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/base-model.png" alt="Screenshot that shows how to select the base model in the Create custom model wizard in Azure OpenAI Studio." width="600"/></ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
