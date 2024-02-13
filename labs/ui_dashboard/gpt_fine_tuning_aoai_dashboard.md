@@ -38,6 +38,13 @@ To upload a new training data, you can use one of the following options:
 You can choose your validation data by following the similar pattern as you upload your training data.
 <ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-validation-data.png" alt="Screenshot of the Validation data pane for the Create custom model wizard in Azure OpenAI Studio." width="600"/></ol>
 
+### Step 5 (Optional): Configure *Advanced options*
+Select *Default* to use the default values for the fine-tuning job, or select *Advanced* to display and edit the hyperparameter values.
+<ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-advanced-options.png" alt="Screenshot of the Advanced options pane for the Create custom model wizard, with default options selected." width="600"/></ol>
+
+One can refer to the MS Learn document [here](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio#configure-advanced-options) for a detailed explanation on key tun-able hyperparameters.
+
+
 
   
   
