@@ -16,5 +16,5 @@ Learn how to fine-tune an Llama-2 model using Azure Machine Learning (AML) Studi
 2. In AML Studio, browse to the **Model catalog** pane.
 <ol><img src="../images/screenshot-aml-model-catalog.png" alt="Screenshot of AML Model Catalog pane." width="600"/></ol>
 
-3. In the search box, type **llama2**.
+3. In the search box, type <code>llama2</code>.
 <ol><img src="../images/screenshot-aml-search-llama2.png" alt="Screenshot of AML Model Catalog pane, searching for llama2 in the search box." width="600"/></ol>
