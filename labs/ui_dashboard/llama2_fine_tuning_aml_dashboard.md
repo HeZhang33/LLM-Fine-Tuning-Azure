@@ -75,7 +75,12 @@ Click the **Deploy** button at the bottom to start the actual deployment process
 This may take a moment, until you see both **Provisioning state** become <code>Succeeded</code>.
 <ol><img src="../images/screenshot-aml-endpoint-deployment-succeed.png " alt="Screenshot of AML fine tuning - deploy the fine-tuned model - succeeded." width="600"/></ol>
 
+### Step 9: Test and use a deployed model
+You can directly test the deployed model via the handy test playground.
+<ol><img src="../images/screenshot-aml-endpoint-test-interface.png " alt="Screenshot of testing a deployed fine-tuned model via the handy test playground." width="600"/></ol>
 
+You can also consume the API using a popular programming language such as <code>Python</code>.
+<ol><img src="../images/screenshot-aml-endpoint-consume-api.png " alt="Screenshot of testing a deployed fine-tuned model via API calls." width="600"/></ol>
 
 
 
