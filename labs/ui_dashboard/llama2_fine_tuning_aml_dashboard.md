@@ -25,6 +25,20 @@ Assume that you want to fine-tune the <code>llama-2-7b</code> model for a text g
 1. The first step is to press the **Fine-tune** button to start the fine-tuning process.
 <ol><img src="../images/screenshot-aml-ft-llama2-7b.png" alt="Screenshot of AML Model Catalog, with llama2-7b model description page." width="600"/></ol>
 
-2. The **Fine-tune Llama-2-7b** blade lets you specify task type (choose <code>Text generation</code> for our case), training data, validation data (optional), test data (optional), and an AML compute cluster.
+2. The **Fine-tune Llama-2-7b** blade lets you specify task type (choose <code>Text generation</code> for our case), training data, validation data (optional), test data (optional), and an Azure ML compute cluster.
 <ol><img src="../images/screenshot-aml-ft-llama2-7b-wizard.png" alt="Screenshot of AML Model Catalog pane, for llama2-7b model, opening the Fine-Tune blade." width="600"/></ol>
+
+### Step 3: Create an Azure ML compute cluster
+To run the fine-tuning job, an AML compute cluster machine needs to be created (if you haven't done it before). 
+
+1. The **\+ New** button at the bottom of the blade opens the **Create compute cluster** pane, where you need to specify the **Location** (<code>e.g. West Europe</code>), **Virtual machine tier** (<code>Dedicated</code>), **Virtual machine type** (<code>GPU</code>) and **Virtual machine size**. 
+<ol><img src="../images/screenshot-aml-ft-create-compute-cluster.png " alt="Screenshot of AML create compute cluster pane, with location on west europe and the gpu type of nvidia ND40 series machine." width="600"/></ol>
+
+<ol>Note that only nvidia ND40 and ND96 VMs are supported for fine-tuning at the moment. If you can't find it in list, you can try choosing other <strong>Location</strong> or to request quota accordingly.</ol>
+
+2. Give a name to the compute, and specify the minimum (usually <code>0</code>) and maximum (<code>1</code> for testing purpose) number of nodes.
+<ol><img src="../images/screenshot-aml-ft-create-compute-cluster-advanced-config.png " alt="Screenshot of AML create compute cluster pane, with gpu advanced config pane." width="600"/></ol>
+
+<ol>Click <strong>Next</strong> to start the creation process. This may take a couple of minutes.</ol>
+
 
