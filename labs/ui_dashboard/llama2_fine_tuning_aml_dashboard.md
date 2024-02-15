@@ -41,4 +41,10 @@ To run the fine-tuning job, an AML compute cluster machine needs to be created (
 
 <ol>Click <strong>Next</strong> to start the creation process. This may take a couple of minutes.</ol>
 
+### Step 4: Choose your **Training data**
+The next step is to select your training data either from the previously uploaded one or by uploading a new one.
+<ol><img src="../images/screenshot-aml-ft-select-training-data.png " alt="Screenshot of AML fine tuning - choose training / validation / test data." width="600"/></ol>
+
+You also need to specify the 'prompt' (i.e. input) and the 'completion' (i.e. output) columns to guide the fine-tuning process.  
+<ol><img src="../images/screenshot-aml-ft-select-training-data-map-columns.png " alt="Screenshot of AML fine tuning - choose training / validation / test data, and map the prompt and completion columns." width="600"/></ol>
 
