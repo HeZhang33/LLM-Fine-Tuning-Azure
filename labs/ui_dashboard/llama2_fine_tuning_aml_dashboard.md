@@ -18,3 +18,13 @@ Learn how to fine-tune an Llama-2 model using Azure Machine Learning (AML) Studi
 
 3. In the search box, type <code>llama2</code>.
 <ol><img src="../images/screenshot-aml-search-llama2.png" alt="Screenshot of AML Model Catalog pane, searching for llama2 in the search box." width="600"/></ol>
+
+### Step 2: Start the fine-tuning process
+Assume that you want to fine-tune the <code>llama-2-7b</code> model for a text generation task (similar process for chat-completion tasks). 
+
+1. The first step is to press the **Fine-tune** button to start the fine-tuning process.
+<ol><img src="../images/screenshot-aml-ft-llama2-7b.png" alt="Screenshot of AML Model Catalog, with llama2-7b model description page." width="600"/></ol>
+
+2. The **Fine-tune Llama-2-7b** blade lets you specify task type (choose <code>Text generation</code> for our case), training data, validation data (optional), test data (optional), and an AML compute cluster.
+<ol><img src="../images/screenshot-aml-ft-llama2-7b-wizard.png" alt="Screenshot of AML Model Catalog pane, for llama2-7b model, opening the Fine-Tune blade." width="600"/></ol>
+
