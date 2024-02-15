@@ -53,3 +53,18 @@ You can select your validation data by following the similar procedure as you do
 
 ### Step 6 (Optional): Choose your **Test data**
 You can select your test data by following the similar procedure as you do for the training data. Or, you can leave it as the default setting (i.e. an automtic split of the training data will be used for testing).
+
+### Step 7: Submit your fine-tuning job
+Now that you are ready. Click the **Finish** button at the bottom of the **Fine-tune Llama-2-7b** blade. This will trigger the actual fine-tuning process to start. Depending on the size of your training data, this process can take from minutes to hours.
+<ol><img src="../images/screenshot-aml-ft-model-training-job-running.png " alt="Screenshot of AML fine tuning - fine tuning jobs running." width="600"/></ol>
+
+After the fine-tuning job finishes, its **Status** becomes <code>Completed</code>. 
+<ol><img src="../images/screenshot-aml-ft-model-training-job-completed.png " alt="Screenshot of AML fine tuning - fine tuning jobs completed." width="600"/></ol>
+
+
+
+
+
+
+
+
