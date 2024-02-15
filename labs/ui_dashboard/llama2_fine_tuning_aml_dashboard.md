@@ -48,3 +48,8 @@ The next step is to select your training data either from the previously uploade
 You also need to specify the 'prompt' (i.e. input) and the 'completion' (i.e. output) columns to guide the fine-tuning process.  
 <ol><img src="../images/screenshot-aml-ft-select-training-data-map-columns.png " alt="Screenshot of AML fine tuning - choose training / validation / test data, and map the prompt and completion columns." width="600"/></ol>
 
+### Step 5 (Optional): Choose your **Validation data**
+You can select your validation data by following the similar procedure as you do for the training data. Or, you can leave it as the default setting (i.e. an automtic split of the training data will be used for validation).
+
+### Step 6 (Optional): Choose your **Test data**
+You can select your test data by following the similar procedure as you do for the training data. Or, you can leave it as the default setting (i.e. an automtic split of the training data will be used for testing).
