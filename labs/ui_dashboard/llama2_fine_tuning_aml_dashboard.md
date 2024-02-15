@@ -61,6 +61,19 @@ Now that you are ready. Click the **Finish** button at the bottom of the **Fine-
 After the fine-tuning job finishes, its **Status** becomes <code>Completed</code>. 
 <ol><img src="../images/screenshot-aml-ft-model-training-job-completed.png " alt="Screenshot of AML fine tuning - fine tuning jobs completed." width="600"/></ol>
 
+### Step 8: Deploy the fine-tuned model
+Before deploying the model, you need to register the model first. 
+
+Go to **Assets > Models** pane, select the newly fine-tuned model, and click **\+ Register**.
+<ol><img src="../images/screenshot-aml-ft-model-details.png " alt="Screenshot of AML fine tuning - register the fine-tuned model." width="600"/></ol>
+
+After that, click the **\+ Deploy** button to invoke the Deployment blade, where you need to specify the **Virtual machine** (preferably choose nvidia NC & ND VM series), **Instance count**, **Endpoint name** and **Deployment name**. 
+<ol><img src="../images/screenshot-aml-ft-model-deploy-wizard.png " alt="Screenshot of AML fine tuning - deploy the fine-tuned model." width="600"/></ol>
+
+Click the **Deploy** button at the bottom to start the actual deployment process. 
+
+This may take a moment, until you see both **Provisioning state** become <code>Succeeded</code>.
+<ol><img src="../images/screenshot-aml-endpoint-deployment-succeed.png " alt="Screenshot of AML fine tuning - deploy the fine-tuned model - succeeded." width="600"/></ol>
 
 
 
