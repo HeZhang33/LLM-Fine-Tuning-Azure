@@ -83,7 +83,9 @@ You can also consume the API using a popular programming language such as <code>
 <ol><img src="../images/screenshot-aml-endpoint-consume-api.png " alt="Screenshot of testing a deployed fine-tuned model via API calls." width="600"/></ol>
 
 ### Step 10 (Optional): Clean up your deployment resources
-When you're done with your custom model, you can delete the deployed endpoint, model, and the compute cluster. You can also delete the training (and validation and test) files you uploaded to the service, if needed.
+When you're done with your custom model, you can delete the deployed endpoint, model, and the compute cluster. 
+
+You can also delete the training (and validation and test) files you uploaded to the service, if needed.
 
 
 
