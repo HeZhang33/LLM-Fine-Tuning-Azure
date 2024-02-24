@@ -1,4 +1,4 @@
-# An LLM Fine-Tuning Guide using Azure 
+# LLM Fine-Tuning using Azure 
 A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azure.
 
 ## What
