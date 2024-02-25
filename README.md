@@ -59,6 +59,11 @@ For more information see the
 or contact [opencode@microsoft.com](mailto:opencode@microsoft.com)
 with any additional questions or comments.
 
+## License
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Licensed under the [MIT](LICENSE) license.
+
 
 
 
