@@ -64,6 +64,7 @@ Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the [MIT](LICENSE) license.
 
-
+## Reporting Security Issues
+[Reporting Security Issues](https://github.com/microsoft/repo-templates/blob/main/shared/SECURITY.md)
 
 
