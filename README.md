@@ -1,7 +1,7 @@
 # LLM Fine-Tuning using Azure 
 A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azure.
 
-## New Adds
+## New
 🔥 New (2024-07-11): GPT-4 Fine-Tuning using Azure OpenAI UI Dashboard
 <a href="labs/fine_tuning_dashboards/gpt_4_fine_tuning_aoai_dashboard.md">[Jump to the Guide]</a>
 
