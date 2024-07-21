@@ -25,12 +25,13 @@ You may consider Fine-Tuning when:
 ## Learning Path
 **Lab 1: LLM Fine-Tuning via *Dashboards***
 - [Lab 1.1](labs/fine_tuning_dashboards/gpt_3_fine_tuning_aoai_dashboard.md): Fine-Tuning GPT-3 Models (*1h duration*)
-- [Lab 1.1](labs/fine_tuning_dashboards/gpt_4_fine_tuning_aoai_dashboard.md): Fine-Tuning GPT-4 Models (*1h duration*)
-- [Lab 1.2](labs/fine_tuning_dashboards/llama2_fine_tuning_aml_dashboard.md): Fine-Tuning Llama2 Models (*1h duration*)
+- [Lab 1.2](labs/fine_tuning_dashboards/gpt_4_fine_tuning_aoai_dashboard.md): Fine-Tuning GPT-4 Models (*1h duration*)
+- [Lab 1.3](labs/fine_tuning_dashboards/llama2_fine_tuning_aml_dashboard.md): Fine-Tuning Llama2 Models (*1h duration*)
 
 **Lab 2: LLM Fine-Tuning via *Python SDK***
-- [Lab 2.1](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_35_turbo_fine_tuning.ipynb): Fine-Tuning GPT Models (*2h duration*)
-- [Lab 2.2](labs/fine_tuning_notebooks/llama2_fine_tuning/llama_2_7b_fine_tuning.ipynb): Fine-Tuning Llama2 Models (*2h duration*) 
+- [Lab 2.1](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_35_turbo_fine_tuning.ipynb): Fine-Tuning GPT-3 Models (*2h duration*)
+- [Lab 2.2](labs/fine_tuning_notebooks/llama_fine_tuning/llama_2_7b_fine_tuning.ipynb): Fine-Tuning Llama2 Models (*2h duration*)
+- [Lab 2.3](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning.ipynb): Fine-Tuning Phi-3 Models (*2h duration*) 
 
 ## Contributing
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
