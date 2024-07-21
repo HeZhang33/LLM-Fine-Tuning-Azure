@@ -68,7 +68,7 @@ To deploy your custom model, select the custom model to deploy, and then select 
 The **Deploy model** dialog box opens. 
 
 In the dialog box, enter your **Deployment name** and then select **Create** to start the deployment of your custom model.
-<ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-models-deploy.png" alt="Screenshot of the Deploy Model dialog in Azure OpenAI Studio." width="600"/></ol>
+<ol><img src="../images/screenshot-aoai-deploy-model.png" alt="Screenshot of the Deploy Model dialog in Azure OpenAI Studio." width="600"/></ol>
 
 ### Step 8: Test and use a deployed model
 After your custom model deploys, you can use it like any other deployed model. 
