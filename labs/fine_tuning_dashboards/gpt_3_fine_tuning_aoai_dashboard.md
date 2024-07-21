@@ -1,4 +1,4 @@
-## Fine-Tuning GPT Models - A Dashboard Experience
+## Fine-Tuning GPT-3 Models - A Dashboard Experience
 Learn how to fine-tune a GPT model using Azure OpenAI Studio - UI Dashboard.  
 
 ### Prerequisites
