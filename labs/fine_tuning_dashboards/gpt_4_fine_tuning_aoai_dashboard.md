@@ -50,7 +50,7 @@ One can refer to the MS Learn document [here](https://learn.microsoft.com/en-us/
 
 ### Step 6: Review your choices and *Start Training job*
 If you're ready to train your model, select **Start Training job** to start the fine-tuning job and return to the **Models** pane.
-<ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-review.png" alt="Screenshot of the Review pane for the Create custom model wizard in Azure OpenAI Studio." width="600"/></ol>
+<ol><img src="../images/screenshot-aoai-review-model-and-data-before-training.png" alt="Screenshot of the Review pane for the Create custom model wizard in Azure OpenAI Studio." width="600"/></ol>
 
 You can check the status of the custom model in the **Status** column of the **Custom models** tab.
 <ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-models-job-running.png" alt="Screenshot of the Models pane from Azure OpenAI Studio, with a custom model displayed." width="600"/></ol>
