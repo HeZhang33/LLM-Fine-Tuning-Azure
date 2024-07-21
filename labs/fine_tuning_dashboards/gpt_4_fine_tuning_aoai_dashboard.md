@@ -6,7 +6,11 @@ Learn how to fine-tune a GPT-4 model using Azure OpenAI Studio - UI Dashboard.
 * An Azure subscription.
 * Access to Azure OpenAI Service.
 * An Azure OpenAI resource created in the supported fine-tuning region (e.g. Sweden Central).
-* GPT Models that support fine-tuning so far: *gpt-35-turbo-0613* and *gpt-35-turbo-1106*.
+* GPT Models that support fine-tuning so far:
+  * *gpt-35-turbo-0613*
+  * *gpt-35-turbo-1106*
+  * *gpt-35-turbo-0125*
+  * *gpt-4-0613*
 * Prepare Training and Validation datasets:
   * at least 50 high-quality samples (preferably 1,000s) are required.
   * must be formatted in the JSON Lines (JSONL) document with UTF-8 encoding.
