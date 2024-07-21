@@ -53,10 +53,10 @@ If you're ready to train your model, select **Start Training job** to start the 
 <ol><img src="../images/screenshot-aoai-review-model-and-data-before-training.png" alt="Screenshot of the Review pane for the Create custom model wizard in Azure OpenAI Studio." width="600"/></ol>
 
 You can check the status of the custom model in the **Status** column of the **Custom models** tab.
-<ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-models-job-running.png" alt="Screenshot of the Models pane from Azure OpenAI Studio, with a custom model displayed." width="600"/></ol>
+<ol><img src="../images/screenshot-aoai-custom-model-running-status.png" alt="Screenshot of the Models pane from Azure OpenAI Studio, with a custom model fine-tuning status displayed." width="600"/></ol>
 
 After you start a fine-tuning job, it can take some time to complete (from minutes to hours).
-<ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-model-details.png" alt="Screenshot of the Models pane in Azure OpenAI Studio, with a custom model displayed." width="600"/></ol>
+<ol><img src="../images/screenshot-aoai-custom-model-running-status-with-evaluation-metrics.png" alt="Screenshot of the Models pane in Azure OpenAI Studio, with a custom model fine-tuning status with evaluation metrics displayed." width="600"/></ol>
 
 ### Step 7: Deploy a custom model
 When the fine-tuning job succeeds, you can deploy the custom model from the **Models** pane to make it available for use with completion calls.
