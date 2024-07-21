@@ -5,7 +5,7 @@ A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azu
 🔥 New (2024-07-11): GPT-4 Fine-Tuning using Azure OpenAI UI Dashboard
 <a href="labs/fine_tuning_dashboards/gpt_4_fine_tuning_aoai_dashboard.md">[Jump to the Guide]</a>
 
-🔥 New (2024-07-01): Phi-3 Fine-Tuning using Azure Machine Learning (Low-Code) Python SDK
+🔥 New (2024-07-04): Phi-3 Fine-Tuning using Azure Machine Learning (Low-Code) Python SDK
 <a href="labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning.ipynb">[Jump to the notebook]</a>
 
 ## What
