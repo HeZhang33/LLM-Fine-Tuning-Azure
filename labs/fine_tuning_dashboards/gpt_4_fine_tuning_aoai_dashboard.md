@@ -26,7 +26,7 @@ You can check the MS Learn document [here](https://learn.microsoft.com/en-us/azu
 The first step in creating a custom model is to choose a base model. In this demo, we choose *gpt-4-0613*.
 
 The **Base model** pane lets you choose a base model to use for your custom model. Select the base model *gpt-4 (0613)* from the **Base model type** dropdown, and then select **Next** to continue.
-<ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/base-model.png" alt="Screenshot that shows how to select the base model in the Create custom model wizard in Azure OpenAI Studio." width="600"/></ol>
+<ol><img src="../images/screenshot-aoai-select-base-model.png" alt="Screenshot that shows how to select the base model in the Create custom model wizard in Azure OpenAI Studio." width="600"/></ol>
 
 ### Step 3: Choose your *Training data*
 The next step is to choose your training data either from the previously uploaded one or by uploading a new one.
