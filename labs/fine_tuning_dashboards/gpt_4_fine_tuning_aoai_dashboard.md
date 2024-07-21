@@ -62,7 +62,7 @@ After you start a fine-tuning job, it can take some time to complete (from minut
 When the fine-tuning job succeeds, you can deploy the custom model from the **Models** pane to make it available for use with completion calls.
 
 To deploy your custom model, select the custom model to deploy, and then select **Deploy model**.
-<ol><img src="https://learn.microsoft.com/en-us/azure/ai-services/openai/media/fine-tuning/studio-models-deploy-model.png#lightbox
+<ol><img src="../images/screenshot-aoai-custom-model-running-status.png#lightbox
 " alt="Screenshot that shows how to deploy a custom model in Azure OpenAI Studio." width="600"/></ol>
 
 The **Deploy model** dialog box opens. 
