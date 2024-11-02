@@ -2,6 +2,12 @@
 A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azure.
 
 ## New
+🔥 New (2024-10-25): Phi-3 Fine-Tuning using Q-LoRA 
+<a href="labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_qlora.ipynb">[Jump to the notebook]</a>
+
+🔥 New (2024-10-05): Phi-3 Fine-Tuning using LoRA 
+<a href="labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_lora.ipynb">[Jump to the notebook]</a>
+
 🔥 New (2024-07-28): GPT-4 Fine-Tuning using Azure Machine Learning (Low-Code) Python SDK
 <a href="labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4_fine_tuning.ipynb">[Jump to the notebook]</a>
 
