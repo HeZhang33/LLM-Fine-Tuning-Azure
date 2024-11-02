@@ -33,12 +33,12 @@ You may consider Fine-Tuning when:
 - you have clear evaluation metrics to benchmark fine-tuned models.
 
 ## Learning Path
-**Lab 1: LLM Fine-Tuning via *Dashboards***
+**Lab 1: LLM Fine-Tuning via *Azure Dashboards***
 - [Lab 1.1](labs/fine_tuning_dashboards/gpt_3_fine_tuning_aoai_dashboard.md): Fine-Tuning GPT-3.5 Model (*1h duration*)
 - [Lab 1.2](labs/fine_tuning_dashboards/gpt_4_fine_tuning_aoai_dashboard.md): Fine-Tuning GPT-4 Model (*1h duration*)
 - [Lab 1.3](labs/fine_tuning_dashboards/llama2_fine_tuning_aml_dashboard.md): Fine-Tuning Llama2 Model (*1h duration*)
 
-**Lab 2: LLM Fine-Tuning via *Python SDK***
+**Lab 2: LLM Fine-Tuning via *Azure Python SDK***
 - [Lab 2.1](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_35_turbo_fine_tuning.ipynb): Fine-Tuning GPT-3.5 Model (*2h duration*)
 - [Lab 2.2](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4_fine_tuning.ipynb): Fine-Tuning GPT-4 Model (*2h duration*)
 - [Lab 2.3](labs/fine_tuning_notebooks/llama_fine_tuning/llama_2_7b_fine_tuning.ipynb): Fine-Tuning Llama2 Model (*2h duration*)
