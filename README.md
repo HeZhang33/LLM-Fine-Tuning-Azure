@@ -2,6 +2,9 @@
 A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azure.
 
 ## New
+🔥 New (2024-11-20): Phi-3.5 Vision Fine-Tuning using LoRA 
+<a href="labs/fine_tuning_notebooks/phi_fine_tuning/phi_35_vision_instruct_fine_tuning_using_lora.ipynb">[Jump to the notebook]</a>
+
 🔥 New (2024-10-25): Phi-3 Fine-Tuning using Q-LoRA 
 <a href="labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_qlora.ipynb">[Jump to the notebook]</a>
 
@@ -53,6 +56,7 @@ You may consider Fine-Tuning when:
 **Lab 3: LLM Fine-Tuning via *Open Source Tools***
 - [Lab 3.1](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_lora.ipynb): Fine-Tuning Phi-3 Model using LoRA (*3h duration*)
 - [Lab 3.2](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_qlora.ipynb): Fine-Tuning Phi-3 Model using Q-LoRA (*3h duration*)
+- [Lab 3.3](labs/fine_tuning_notebooks/phi_fine_tuning/phi_35_vision_instruct_fine_tuning_using_lora.ipynb): Fine-Tuning Phi-3.5 Vision Model using LoRA (*3h duration*)
 
 ## Contributing
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
