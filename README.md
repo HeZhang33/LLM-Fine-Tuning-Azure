@@ -2,6 +2,9 @@
 A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azure.
 
 ## New
+🔥 New (2025-01-02): GPT-4o Vision Fine-Tuning using Azure Machine Learning (Low-Code) Python SDK
+<a href="labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_vision_fine_tuning.ipynb">[Jump to the notebook]</a>
+
 🔥 New (2024-11-20): Phi-3.5 Vision Fine-Tuning using LoRA 
 <a href="labs/fine_tuning_notebooks/phi_fine_tuning/phi_35_vision_instruct_fine_tuning_using_lora.ipynb">[Jump to the notebook]</a>
 
@@ -50,8 +53,9 @@ You may consider Fine-Tuning when:
 **Lab 2: LLM Fine-Tuning via *Azure Python SDK***
 - [Lab 2.1](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_35_turbo_fine_tuning.ipynb): Fine-Tuning GPT-3.5 Model (*2h duration*)
 - [Lab 2.2](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4_fine_tuning.ipynb): Fine-Tuning GPT-4 Model (*2h duration*)
-- [Lab 2.3](labs/fine_tuning_notebooks/llama_fine_tuning/llama_2_7b_fine_tuning.ipynb): Fine-Tuning Llama2 Model (*2h duration*)
-- [Lab 2.4](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning.ipynb): Fine-Tuning Phi-3 Model (*2h duration*)
+- [Lab 2.3](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_vision_fine_tuning.ipynb): Vision Fine-Tuning GPT-4o Model (*2h duration*)
+- [Lab 2.4](labs/fine_tuning_notebooks/llama_fine_tuning/llama_2_7b_fine_tuning.ipynb): Fine-Tuning Llama2 Model (*2h duration*)
+- [Lab 2.5](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning.ipynb): Fine-Tuning Phi-3 Model (*2h duration*)
 
 **Lab 3: LLM Fine-Tuning via *Open Source Tools***
 - [Lab 3.1](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_lora.ipynb): Fine-Tuning Phi-3 Model using LoRA (*3h duration*)
