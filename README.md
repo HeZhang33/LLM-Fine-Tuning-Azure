@@ -2,6 +2,9 @@
 A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azure.
 
 ## New
+🔥 New (2025-03-16): Deploying and Serving DeepSeek-R1-1.5B via vLLM and AML Online Endpoint
+<a href="labs/model_serving_notebooks/deploy_deepseek_r1_1.5b_qwen_via_vllm_and_aml_endpoint.ipynb">[Jump to the notebook]</a>
+
 🔥 New (2025-01-02): GPT-4o Vision Fine-Tuning using Azure Machine Learning (Low-Code) Python SDK
 <a href="labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_vision_fine_tuning.ipynb">[Jump to the notebook]</a>
 
@@ -61,6 +64,9 @@ You may consider Fine-Tuning when:
 - [Lab 3.1](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_lora.ipynb): Fine-Tuning Phi-3 Model using LoRA (*3h duration*)
 - [Lab 3.2](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_qlora.ipynb): Fine-Tuning Phi-3 Model using Q-LoRA (*3h duration*)
 - [Lab 3.3](labs/fine_tuning_notebooks/phi_fine_tuning/phi_35_vision_instruct_fine_tuning_using_lora.ipynb): Fine-Tuning Phi-3.5 Vision Model using LoRA (*3h duration*)
+
+**Lab 4: LLM Model-Serving via *Open Source Tools* and *Azure Python SDK***
+- [Lab 4.1](/labs/model_serving_notebooks/deploy_deepseek_r1_1.5b_qwen_via_vllm_and_aml_endpoint.ipynb): Deploying and Serving DeepSeek-R1-1.5B using vLLM and AML Online Endpoint (*1h duration*)
 
 ## Contributing
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
