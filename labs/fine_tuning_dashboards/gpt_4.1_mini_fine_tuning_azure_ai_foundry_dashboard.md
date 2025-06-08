@@ -79,15 +79,14 @@ Or leave them at default values.
 1. Review your configuration.
 2. Click **Submit** to start the fine-tuning job.
 3. Monitor progress in the **Status** column of the **Fine-tuning** pane.
+<ol><img src="../images/screenshot-review-status.png" alt="Screenshot of reviewing the status of the fine-tuning job" width="600"/></ol>
 
 > ⏱️ *Training duration depends on dataset size and selected parameters.*
 
-<ol><img src="../images/screenshot-review-submit.png" alt="Screenshot of reviewing and submitting the fine-tuning job" width="600"/></ol>
-
-<ol><img src="../images/screenshot-review-status.png" alt="Screenshot of reviewing the status of the fine-tuning job" width="600"/></ol>
-
+When the fine-tuning process finishes, you will see the **Status** showing **Completed**.
 <ol><img src="../images/screenshot-review-status-completed.png" alt="Screenshot of completed status of the fine-tuning job" width="600"/></ol>
 
+You can also review the various **Metrics** of your fine-tuned model.
 <ol><img src="../images/screenshot-review-metrics.png" alt="Screenshot of reviewing metrics of the fine-tuning job" width="600"/></ol>
 
 ---
