@@ -20,14 +20,13 @@ Learn how to fine-tune a **gpt-4.1-mini** model using the Azure AI Foundry UI Da
 
 1. Inside your project, go to the **Fine-tuning** pane.
 2. Click **Fine-tune model** to open the wizard.
-
 <ol><img src="../images/screenshot-launch-finetune-wizard.png" alt="Screenshot of launching the fine-tune wizard" width="600"/></ol>
 
 ---
 
 ### Step 3: Select the *Base model*
 
-1. In the **Base model** pane, choose **gpt-4.1-mini** from the dropdown.
+1. In the **Base models** pane, choose **gpt-4.1-mini** from the dropdown.
 2. Click **Next** to proceed.
 
 > 🧠 *gpt-4.1-mini is optimized for low-latency inference and supports supervised fine-tuning.*
