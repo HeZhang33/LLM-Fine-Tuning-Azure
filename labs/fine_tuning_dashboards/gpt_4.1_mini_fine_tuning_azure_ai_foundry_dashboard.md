@@ -95,22 +95,21 @@ You can also review the various **Metrics** of your fine-tuned model.
 
 1. Once training completes, select your model in the **Fine-tuning** pane.
 2. Click **Use this model**.
-3. In the **Deploy model** dialog, enter a deployment name and click **Deploy**.
-
 <ol><img src="../images/screenshot-deploy-model.png" alt="Screenshot of deploying the fine-tuned model" width="600"/></ol>
 
+4. In the **Deploy model** dialog, enter a deployment name and click **Deploy**.
 <ol><img src="../images/screenshot-deploy-model-config.png" alt="Screenshot of configuring the deployment of the fine-tuned model" width="600"/></ol>
-
-<ol><img src="../images/screenshot-deploy-model-completed.png" alt="Screenshot of completed deployment of the fine-tuned model" width="600"/></ol>
 
 ---
 
 ### Step 9: *Test and use* your deployed model
 
 - Use the **Playgrounds** in Azure AI Foundry to test your model interactively.
-- Or integrate it via the Completion API.
+<ol><img src="../images/screenshot-deploy-model-completed.png" alt="Screenshot of completed deployment of the fine-tuned model" width="600"/></ol>
 
 <ol><img src="../images/screenshot-test-model.png" alt="Screenshot of testing the deployed model" width="600"/></ol>
+
+- Or integrate it via the Completion API.
 
 ---
 
