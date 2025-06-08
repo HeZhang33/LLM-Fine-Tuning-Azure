@@ -117,16 +117,13 @@ You can also review the various **Metrics** of your fine-tuned model.
 
 Delete deployments, models, and datasets when no longer needed to avoid unnecessary costs.
 
-<ol><img src="../images/screenshot-cleanup-resources.png" alt="Screenshot of cleaning up resources" width="600"/></ol>
-
 ---
 
 ### Step 11 (Optional): *Continuous fine-tuning*
 
 To further refine your model:
 1. Start a new fine-tuning job.
-2. Select your previously fine-tuned model as the base model (e.g., `gpt-4.1-mini-2025-06-08ft-abc123...`).
+2. Select your previously fine-tuned model as the base model (e.g., `gpt-4.1-mini-2025-04-14.ft-...`).
+<ol><img src="../images/screenshot-continuous-finetuning.png" alt="Screenshot of continuous fine-tuning setup" width="600"/></ol>
 
 This enables iterative improvement over time.
-
-<ol><img src="../images/screenshot-continuous-finetuning.png" alt="Screenshot of continuous fine-tuning setup" width="600"/></ol>
