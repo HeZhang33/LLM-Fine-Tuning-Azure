@@ -2,6 +2,9 @@
 A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azure.
 
 ## New
+🔥 New (2025-05-16): GPT-4.1-mini Fine-Tuning using Azure AI Foundry UI Dashboard (No-Code)
+<a href="labs/fine_tuning_dashboards/gpt_4.1_mini_fine_tuning_azure_ai_foundry_dashboard.md">[Jump to the instruction]</a>
+
 🔥 New (2025-04-16): GPT-4o DPO Fine-Tuning using Azure Machine Learning (Low-Code) Python SDK
 <a href="labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_dpo_fine_tuning.ipynb">[Jump to the notebook]</a>
 
@@ -51,10 +54,11 @@ You may consider Fine-Tuning when:
 - you have clear evaluation metrics to benchmark fine-tuned models.
 
 ## Learning Path
-**Lab 1: LLM Fine-Tuning via *Azure Dashboards***
+**Lab 1: LLM Fine-Tuning via *Azure AI Foundry***
 - [Lab 1.1](labs/fine_tuning_dashboards/gpt_3_fine_tuning_aoai_dashboard.md): Fine-Tuning GPT-3.5 Model (*1h duration*)
 - [Lab 1.2](labs/fine_tuning_dashboards/gpt_4_fine_tuning_aoai_dashboard.md): Fine-Tuning GPT-4 Model (*1h duration*)
 - [Lab 1.3](labs/fine_tuning_dashboards/llama2_fine_tuning_aml_dashboard.md): Fine-Tuning Llama2 Model (*1h duration*)
+- [Lab 1.4](labs/fine_tuning_dashboards/gpt_4.1_mini_fine_tuning_azure_ai_foundry_dashboard.md): Fine-Tuning GPT-4.1-mini Model (*1h duration*)
 
 **Lab 2: LLM Fine-Tuning via *Azure Python SDK***
 - [Lab 2.1](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_35_turbo_fine_tuning.ipynb): Fine-Tuning GPT-3.5 Model (*2h duration*)
