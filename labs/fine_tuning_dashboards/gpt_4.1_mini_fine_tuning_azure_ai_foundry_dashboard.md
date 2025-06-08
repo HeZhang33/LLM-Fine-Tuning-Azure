@@ -55,7 +55,6 @@ Assume we want to **Upload files** from our local machine.
 ### Step 5 (Optional): Add *Validation data*
 
 Validation data is optional but recommended. Upload it using the same method as training data.
-
 <ol><img src="../images/screenshot-upload-validation-data.png" alt="Screenshot of uploading validation data" width="600"/></ol>
 
 ---
@@ -69,10 +68,9 @@ You can customize hyperparameters such as:
 - Warmup steps
 
 Or leave them at default values.
-
-> 🔧 For tuning guidance, refer to https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio#configure-advanced-options.
-
 <ol><img src="../images/screenshot-advanced-options.png" alt="Screenshot of advanced configuration options" width="600"/></ol>
+
+> 🔧 For tuning the hyperparameters, one can refer to the MS Learn document [here](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio#configure-advanced-options) for a detailed explanation.
 
 ---
 
