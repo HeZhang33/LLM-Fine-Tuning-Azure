@@ -9,10 +9,9 @@ Learn how to fine-tune a **gpt-4.1-mini** model using the Azure AI Foundry UI Da
 
 1. Navigate to https://ai.azure.com/ and sign in with your Azure credentials.
 2. On the landing page, click the **+ Create new** button in the top-right corner to create a new project.
-3. Provide a name and description for your project, then select **Create**.  
 <ol><img src="../images/screenshot-create-project.png" alt="Screenshot of creating a new project in Azure AI Foundry" width="600"/></ol>
 
-4. Configure your project settings such as region, resource group, and connected services.  
+4. Provide a name for your project, configure other settings such as region, resource group etc., and then select **Create**.  
 <ol><img src="../images/screenshot-create-project-config.png" alt="Screenshot of configuring the project settings" width="600"/></ol>
 
 ---
