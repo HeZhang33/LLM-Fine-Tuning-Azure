@@ -47,6 +47,7 @@ Learn how to fine-tune a **gpt-4.1-mini** model using the Azure AI Foundry UI Da
 
 <ol><img src="../images/screenshot-upload-training-data.png" alt="Screenshot of uploading training data" width="600"/></ol>
 
+Assume we want to **Upload files** from our local machine.
 <ol><img src="../images/screenshot-upload-training-data-display.png" alt="Screenshot of displaying uploaded training data" width="600"/></ol>
 
 ---
