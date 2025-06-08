@@ -2,7 +2,7 @@
 A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azure.
 
 ## New
-🔥 New (2025-05-16): GPT-4.1-mini Fine-Tuning using Azure AI Foundry UI Dashboard (No-Code)
+🔥 New (2025-06-08): GPT-4.1-mini Fine-Tuning using Azure AI Foundry UI Dashboard (No-Code)
 <a href="labs/fine_tuning_dashboards/gpt_4.1_mini_fine_tuning_azure_ai_foundry_dashboard.md">[Jump to the screenshots demo]</a>
 
 🔥 New (2025-04-16): GPT-4o DPO Fine-Tuning using Azure Machine Learning (Low-Code) Python SDK
