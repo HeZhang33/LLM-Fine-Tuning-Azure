@@ -122,7 +122,7 @@ Delete deployments, models, and datasets when no longer needed to avoid unnecess
 
 To further refine your model:
 1. Start a new fine-tuning job.
-2. Select your previously fine-tuned model as the base model (e.g., `gpt-4o-mini-2025-04-14.ft-...`).  
+2. Select your previously fine-tuned model as the base model (e.g., `gpt-4o-mini-2024-07-18.ft-...`).  
 <ol><img src="../images/screenshot-foundry-continous-ft-1.png" alt="Screenshot of continuous fine-tuning setup" width="600"/></ol>
 
 This enables iterative improvement over time.
