@@ -1,7 +1,27 @@
 
-## Fine-Tuning GPT-4.1-mini Model - A Dashboard Experience
+## Fine-Tuning GPT-4.1-mini Model - An AI Foundry Dashboard Experience
 
 Learn how to fine-tune a **gpt-4.1-mini** model using the Azure AI Foundry UI Dashboard.
+
+---
+
+### Prerequisites
+* Learn the [what, why, and when to use fine-tuning.](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/fine-tuning-considerations)
+* An Azure subscription - [Create one for free.](https://azure.microsoft.com/free/cognitive-services)
+* An [Azure AI project](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/create-projects) in Azure AI Foundry portal.
+* An [Azure OpenAI connection](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/connections-add?tabs=azure-openai#connection-details) to a resource in a [region where fine-tuning is supported.](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#fine-tuning-models)
+* GPT Models that support fine-tuning so far:
+  * *gpt-35-turbo-0125*
+  * *gpt-4o-0806*
+  * *gpt-4o-mini*
+  * *gpt-4.1-mini*
+  * *gpt-4.1-nano*
+  * *o4-mini*
+* Prepare Training and Validation datasets:
+  * at least 50 high-quality samples (preferably 1,000s) are required.
+  * must be formatted in the JSON Lines (JSONL) document with UTF-8 encoding.
+
+You can check the MS Learn document [here](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio) for more details.
 
 ---
 
