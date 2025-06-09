@@ -31,7 +31,7 @@ You can check the MS Learn document [here](https://learn.microsoft.com/en-us/azu
 2. In Azure AI Foundry, choose an existing project or create a new project.  
 <ol><img src="../images/screenshot-foundry-create-project.png" alt="Screenshot of the project creation" width="600"/></ol>
 
-3. Once we have our project created, browse to the **Fine-tuning** pane, and select **Fine-tune model**.  
+3. Once we have our project created, browse to the **Fine-tuning** pane, and select **+Fine-tune model**.  
 <ol><img src="../images/screenshot-foundry-create-finetuning.png" alt="Screenshot of the Fine-tuning pane for the Creation for the custom model wizard" width="600"/></ol>
 
 ---
