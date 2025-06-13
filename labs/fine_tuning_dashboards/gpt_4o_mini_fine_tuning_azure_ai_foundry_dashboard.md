@@ -1,5 +1,5 @@
 
-## Text Fine-Tuning GPT-4o-mini Model - An AI Foundry Dashboard Experience
+## Supervised Fine-Tuning GPT-4o-mini Model for Text Q&A - An AI Foundry Dashboard Experience
 
 Learn how to fine-tune a **gpt-4o-mini** model using the Azure AI Foundry UI Dashboard.
 
