@@ -1,5 +1,5 @@
 
-## Fine-Tuning GPT-4.1-mini Model - An AI Foundry Dashboard Experience
+## Text Fine-Tuning GPT-4.1-mini Model - An AI Foundry Dashboard Experience
 
 Learn how to fine-tune a **gpt-4.1-mini** model using the Azure AI Foundry UI Dashboard.
 
