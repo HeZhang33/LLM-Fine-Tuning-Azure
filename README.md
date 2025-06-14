@@ -2,6 +2,9 @@
 A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azure.
 
 ## New
+🔥 New (2025-06-14): **Updated** GPT-4o DPO Fine-Tuning using Azure Machine Learning (Low-Code) Python SDK
+<a href="labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_dpo_fine_tuning.ipynb">[Jump to the notebook]</a>
+
 🔥 New (2025-06-14): GPT-4o Fine-Tuning using Azure Python SDK (Low-Code)
 <a href="labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_fine_tuning.ipynb">[Jump to the demo]</a>
 
