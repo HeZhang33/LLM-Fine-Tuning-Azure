@@ -64,11 +64,11 @@ You may consider Fine-Tuning when:
 
 ## Learning Path
 **Lab 1: LLM Fine-Tuning via *Azure AI Foundry UI Dashboard***
-- [Lab 1.1](labs/fine_tuning_dashboards/gpt_3_fine_tuning_aoai_dashboard.md): Fine-Tuning GPT-3.5 Model (*1h duration*)
-- [Lab 1.2](labs/fine_tuning_dashboards/gpt_4_fine_tuning_aoai_dashboard.md): Fine-Tuning GPT-4 Model (*1h duration*)
-- [Lab 1.3](labs/fine_tuning_dashboards/llama2_fine_tuning_aml_dashboard.md): Fine-Tuning Llama2 Model (*1h duration*)
-- [Lab 1.4](labs/fine_tuning_dashboards/gpt_4o_mini_fine_tuning_azure_ai_foundry_dashboard.md): Fine-Tuning GPT-4o-mini Model (*1h duration*)
-- [Lab 1.5](labs/fine_tuning_dashboards/gpt_4.1_mini_fine_tuning_azure_ai_foundry_dashboard.md): Fine-Tuning GPT-4.1-mini Model (*1h duration*)
+- [Lab 1.1](labs/fine_tuning_dashboards/gpt_3_fine_tuning_aoai_dashboard.md): Supervised Fine-Tuning GPT-3.5 Model (*1h duration*)
+- [Lab 1.2](labs/fine_tuning_dashboards/gpt_4_fine_tuning_aoai_dashboard.md): Supervised Fine-Tuning GPT-4 Model (*1h duration*)
+- [Lab 1.3](labs/fine_tuning_dashboards/llama2_fine_tuning_aml_dashboard.md): Supervised Fine-Tuning Llama2 Model (*1h duration*)
+- [Lab 1.4](labs/fine_tuning_dashboards/gpt_4o_mini_fine_tuning_azure_ai_foundry_dashboard.md): Supervised Fine-Tuning GPT-4o-mini Model (*1h duration*)
+- [Lab 1.5](labs/fine_tuning_dashboards/gpt_4.1_mini_fine_tuning_azure_ai_foundry_dashboard.md): Supervised Fine-Tuning GPT-4.1-mini Model (*1h duration*)
 
 **Lab 2: LLM Fine-Tuning via *Azure Python SDK***
 - [Lab 2.1](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_35_turbo_fine_tuning.ipynb): Supervised Fine-Tuning GPT-3.5 Model (*2h duration*)
@@ -76,13 +76,13 @@ You may consider Fine-Tuning when:
 - [Lab 2.3](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_fine_tuning.ipynb): Supervised Fine-Tuning GPT-4o Model (*2h duration*)
 - [Lab 2.4](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_vision_fine_tuning.ipynb): Vision Supervised Fine-Tuning GPT-4o Model (*2h duration*)
 - [Lab 2.5](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_dpo_fine_tuning.ipynb): DPO Fine-Tuning GPT-4o Model (*2h duration*)
-- [Lab 2.6](labs/fine_tuning_notebooks/llama_fine_tuning/llama_2_7b_fine_tuning.ipynb): Fine-Tuning Llama2 Model (*2h duration*)
-- [Lab 2.7](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning.ipynb): Fine-Tuning Phi-3 Model (*2h duration*)
+- [Lab 2.6](labs/fine_tuning_notebooks/llama_fine_tuning/llama_2_7b_fine_tuning.ipynb): Supervised Fine-Tuning Llama2 Model (*2h duration*)
+- [Lab 2.7](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning.ipynb): Supervised Fine-Tuning Phi-3 Model (*2h duration*)
 
 **Lab 3: LLM Fine-Tuning via *Open Source Tools***
-- [Lab 3.1](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_lora.ipynb): Fine-Tuning Phi-3 Model using LoRA (*3h duration*)
-- [Lab 3.2](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_qlora.ipynb): Fine-Tuning Phi-3 Model using Q-LoRA (*3h duration*)
-- [Lab 3.3](labs/fine_tuning_notebooks/phi_fine_tuning/phi_35_vision_instruct_fine_tuning_using_lora.ipynb): Fine-Tuning Phi-3.5 Vision Model using LoRA (*3h duration*)
+- [Lab 3.1](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_lora.ipynb): Supervised Fine-Tuning Phi-3 Model using LoRA (*3h duration*)
+- [Lab 3.2](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_qlora.ipynb):Supervised Fine-Tuning Phi-3 Model using Q-LoRA (*3h duration*)
+- [Lab 3.3](labs/fine_tuning_notebooks/phi_fine_tuning/phi_35_vision_instruct_fine_tuning_using_lora.ipynb): Supervised Fine-Tuning Phi-3.5 Vision Model using LoRA (*3h duration*)
 
 **Lab 4: LLM Model-Serving via *Open Source Tools* and *Azure Python SDK***
 - [Lab 4.1](/labs/model_serving_notebooks/deploy_deepseek_r1_1.5b_qwen_via_vllm_and_aml_endpoint.ipynb): Deploying and Serving DeepSeek-R1-1.5B using vLLM and AML Online Endpoint (*1h duration*)
