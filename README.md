@@ -1,5 +1,5 @@
 # LLM Fine-Tuning using Azure 
-A fine-tuning guide for both OpenAI and Open-Source Large Lauguage Models on Azure.
+**Fine-Tuning LLMs on Azure** is a modular, beginner-to-expert-friendly guide for customizing both OpenAI and open-source language models using Azure. Designed for Data Scientists, Machine Learning Engineers, and even those without a deep technical background, this repository offers a clear, scalable path to mastering LLM fine-tuning with practical, real-world examples on the Azure cloud platform.
 
 ## New
 🔥 Updated (2025-06-14): GPT-4o DPO Fine-Tuning using Azure Machine Learning (Low-Code) Python SDK
