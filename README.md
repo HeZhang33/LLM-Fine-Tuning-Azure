@@ -75,7 +75,7 @@ You may consider Fine-Tuning when:
 - [Lab 1.3](labs/fine_tuning_dashboards/llama2_fine_tuning_aml_dashboard.md): Supervised Fine-Tuning Llama2 Model (*1h duration*)
 - [Lab 1.4](labs/fine_tuning_dashboards/gpt_4o_mini_fine_tuning_azure_ai_foundry_dashboard.md): Supervised Fine-Tuning GPT-4o-mini Model (*1h duration*)
 - [Lab 1.5](labs/fine_tuning_dashboards/gpt_4.1_mini_fine_tuning_azure_ai_foundry_dashboard.md): Supervised Fine-Tuning GPT-4.1-mini Model (*1h duration*)
-- LLab 1.5](labs/fine_tuning_dashboards/phi_4_mini_fine_tuning_azure_ai_foundry_dashboard.md): Supervised Fine-Tuning Phi-4-mini Model (*1h duration*)
+- [Lab 1.5](labs/fine_tuning_dashboards/phi_4_mini_fine_tuning_azure_ai_foundry_dashboard.md): Supervised Fine-Tuning Phi-4-mini Model (*1h duration*)
 
 **Lab 2: LLM Fine-Tuning via *Azure Python SDK***
 - [Lab 2.1](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_35_turbo_fine_tuning.ipynb): Supervised Fine-Tuning GPT-3.5 Model (*2h duration*)
