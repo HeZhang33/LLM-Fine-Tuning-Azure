@@ -61,10 +61,39 @@ Choose a proper GPU compute hosted in your subscription (e.g. *A100* or *H100* p
 
 ### Step 6: Upload your *Training data*
 
+1. Choose the task type as: **Chat completion**.
+2. Upload your training data using one of the following options:
+   - **Upload files** from your local machine.
+   - **Data in Azure AI Foundry** (already registered in Azure AI Foundry).
 
+> 📌 *Ensure your data is in JSONL format with UTF-8 encoding and that you have the necessary permissions (e.g., Azure Blob Storage Contributor).*
 
+Assume we want to **Upload files** from our local machine.
+<ol><img src="../images/screenshot-os-ft-phi4mini-upload-training-data.png" alt="Screenshot of uploading training data" width="600"/></ol>
 
+---
 
+### Step 7: (Optional): Add *Validation data*
+
+Validation data is optional but recommended. Upload it using the same method as training data.
+<ol><img src="../images/screenshot-os-ft-phi4mini-upload-validation-data.png" alt="Screenshot of uploading validation data" width="600"/></ol>
+
+---
+
+### Step 8 (Optional): Setup *Task parameters (hyper-parameters)*
+
+You can customize task parameters or hyperparameters such as:
+- Epochs
+- Batch size
+- Learning rate
+- Warmup steps
+
+Or leave them at default values.
+<ol><img src="../images/screenshot-os-ft-phi4mini-fine-tune-hyperparameters.png" alt="Screenshot of configuring task and hyper parameters" width="600"/></ol>
+
+> 🔧 For tuning the hyperparameters, one can refer to the MS Learn document [here](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio#configure-advanced-options) for a detailed explanation.
+
+---
 
 
 
