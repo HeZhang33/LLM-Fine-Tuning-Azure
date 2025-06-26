@@ -2,6 +2,9 @@
 **Fine-Tuning LLMs on Azure** is a modular, beginner-to-expert-friendly guide for customizing both OpenAI and open-source language models using Azure. Designed for Data Scientists, Machine Learning Engineers, and even those without a deep technical background, this repository offers a clear, scalable path to mastering LLM fine-tuning with practical, real-world examples on the Azure cloud platform.
 
 ## New
+🔥 New (2025-06-26): Phi-4-mini Fine-Tuning using Azure AI Foundry UI Dashboard (No-Code)
+<a href="labs/fine_tuning_dashboards/phi_4_mini_fine_tuning_azure_ai_foundry_dashboard.md">[Jump to the demo]</a>
+
 🔥 Updated (2025-06-22): Llama3.2-11B Vision Fine-Tuning using Unsloth AI Open Source (Pro-Code) Python SDK
 <a href="labs/fine_tuning_notebooks/llama_fine_tuning/llama3.2-11b-supervised-fine-tuning-for-vision-text-qa-using-unsloth.ipynb">[Jump to the notebook]</a>
 
@@ -72,6 +75,7 @@ You may consider Fine-Tuning when:
 - [Lab 1.3](labs/fine_tuning_dashboards/llama2_fine_tuning_aml_dashboard.md): Supervised Fine-Tuning Llama2 Model (*1h duration*)
 - [Lab 1.4](labs/fine_tuning_dashboards/gpt_4o_mini_fine_tuning_azure_ai_foundry_dashboard.md): Supervised Fine-Tuning GPT-4o-mini Model (*1h duration*)
 - [Lab 1.5](labs/fine_tuning_dashboards/gpt_4.1_mini_fine_tuning_azure_ai_foundry_dashboard.md): Supervised Fine-Tuning GPT-4.1-mini Model (*1h duration*)
+- LLab 1.5](labs/fine_tuning_dashboards/phi_4_mini_fine_tuning_azure_ai_foundry_dashboard.md): Supervised Fine-Tuning Phi-4-mini Model (*1h duration*)
 
 **Lab 2: LLM Fine-Tuning via *Azure Python SDK***
 - [Lab 2.1](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_35_turbo_fine_tuning.ipynb): Supervised Fine-Tuning GPT-3.5 Model (*2h duration*)
