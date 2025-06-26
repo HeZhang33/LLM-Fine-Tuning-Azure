@@ -28,12 +28,45 @@ You can check the MS Learn document [here](https://learn.microsoft.com/en-us/azu
 
 ---
 
-### Step 2: Launch the *Fine-tune with your own data* Wizard
+### Step 2: Search the Open-Source Model from the *Model catalog* Pane
 
-1. Inside your project, go to the **Fine-tuning** pane.
-2. Click **Fine-tune model** to open the wizard.
-<ol><img src="../images/screenshot-launch-finetune-wizard.png" alt="Screenshot of launching the fine-tune wizard" width="600"/></ol>
+1. Type *phi-4* within the Search Bar. 
+2. Click **Phi-4-mini-instruct** to open the model card.
+<ol><img src="../images/screenshot-os-ft-phi4mini-select-model-catalog-phi-4-mini.png" alt="Screenshot of selecting an open source model from the Model catalog" width="600"/></ol>
 
 ---
 
 ### Step 3: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
