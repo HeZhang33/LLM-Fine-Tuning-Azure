@@ -36,12 +36,30 @@ You can check the MS Learn document [here](https://learn.microsoft.com/en-us/azu
 
 ---
 
-### Step 3: 
+### Step 3: Select the *Managed compute*
 
+Click the **Fine-tune** button on top, and then select **Managed compute**.
+<ol><img src="../images/screenshot-os-ft-phi4mini-fine-tune-using-managed-compute.png" alt="Screenshot of choosing managed compute" width="600"/></ol>
 
+---
 
+### Step 4: Give Basic Configs
 
+Fill in the basic information.
+<ol><img src="../images/screenshot-os-ft-phi4mini-fine-tune-basic-configs.png" alt="Screenshot of giving basic fine-tuning information" width="600"/></ol>
 
+---
+
+### Step 5: Select Compute (*GPU*)
+
+Choose a proper GPU compute hosted in your subscription (e.g. *A100* or *H100* preferred).
+<ol><img src="../images/screenshot-os-ft-phi4mini-select-gpu-compute.png" alt="Screenshot of selecting a gpu compute" width="600"/></ol>
+
+> 📌 *Ensure you have enough GPU quota. Otherwise you can request it via the Azure Portal*
+
+---
+
+### Step 6: Upload your *Training data*
 
 
 
