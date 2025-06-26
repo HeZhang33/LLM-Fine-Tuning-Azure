@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7a72bbd0-ed16-477c-8617-e15cd0697bc8)![image](https://github.com/user-attachments/assets/7a72bbd0-ed16-477c-8617-e15cd0697bc8)
+
 ## Supervised Fine-Tuning Phi-4-mini Open-Source Model for Text Q&A - An AI Foundry Dashboard Experience
 
 Learn how to fine-tune a **phi-4-mini-instruct** model using the Azure AI Foundry UI Dashboard.
