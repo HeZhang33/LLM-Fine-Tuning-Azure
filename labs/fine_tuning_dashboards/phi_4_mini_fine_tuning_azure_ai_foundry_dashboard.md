@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/7a72bbd0-ed16-477c-8617-e15cd0697bc8)![image](https://github.com/user-attachments/assets/7a72bbd0-ed16-477c-8617-e15cd0697bc8)
 ## Supervised Fine-Tuning Phi-4-mini Open-Source Model for Text Q&A - An AI Foundry Dashboard Experience
 
 Learn how to fine-tune a **phi-4-mini-instruct** model using the Azure AI Foundry UI Dashboard.
@@ -95,9 +95,50 @@ Or leave them at default values.
 
 ---
 
+### Step 9: Review and *Submit*
 
+1. Review your configuration.
+2. Click **Submit** to start the fine-tuning job. 
+<ol><img src="../images/screenshot-os-ft-phi4mini-submit-and-start-fine-tune-job.png" alt="Screenshot of reviewing and submiting fine-tuning job" width="600"/></ol>
 
+---
 
+### Step 10: Check Fine-Tuning *Status*
+
+You can monitor progress in the job details page of the **Fine-tuning** pane.
+<ol><img src="../images/screenshot-os-ft-phi4mini-model-fine-tune-running.png" alt="Screenshot of model fine-tuning running" width="600"/></ol>
+
+> ⏱️ *Training duration depends on dataset size and selected parameters.*
+
+When the fine-tuning process finishes, you will see the **Status** showing **Completed**.
+
+---
+
+### Step 11: Check Fine-Tuning *Performance Metrics*
+
+You can review the various **Metrics** of your fine-tuned model.
+<ol><img src="../images/screenshot-os-ft-phi4mini-model-fine-tune-metrics.png" alt="Screenshot of checking fine-tuned model metrics" width="600"/></ol>
+
+---
+
+### Step 12: *Deploy* the Fine-Tuned Model
+
+Once training completes, you can deploy the fine-tuned model as an Management Online Endpoint.
+<ol><img src="../images/screenshot-os-ft-phi4mini-deploy-fine-tuned-model-and-give-configs.png" alt="Screenshot of configuring fine-tuned model" width="600"/></ol>
+
+> 📌 *Consider deploying the fine-tuned model to a GPU instance, instead of a CPU instance.*
+
+---
+
+### Step 13: *Check* the Deployment Status
+
+You can check the deployment status from the **Models+endpoint** under **My assets** Pane.
+
+> ⏱️ *It will take some time for the deployment process to finish properly.*
+
+---
+
+### Step 14: *Test* the Deployed Model via UI or API
 
 
 
