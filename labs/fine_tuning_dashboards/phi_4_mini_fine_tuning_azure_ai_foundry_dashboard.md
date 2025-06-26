@@ -155,4 +155,4 @@ You can check the deployment status from the **Models+endpoint** under **My asse
 
 Delete deployments, models, and datasets when no longer needed to avoid unnecessary costs.
 
-> 📌 *Attention: as the model is deployed to the Managed Compute under your subscription, you will be charged by the GPU running hours. Please be cautious of the cost!*
+> 📌 *Attention: Please be cautious of the cost, as the model is charged by the GPU running hours.*
