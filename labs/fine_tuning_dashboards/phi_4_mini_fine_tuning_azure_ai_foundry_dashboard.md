@@ -1,0 +1,39 @@
+
+## Supervised Fine-Tuning Phi-4-mini Open-Source Model for Text Q&A - An AI Foundry Dashboard Experience
+
+Learn how to fine-tune a **phi-4-mini-instruct** model using the Azure AI Foundry UI Dashboard.
+
+---
+
+### Prerequisites
+* Learn the [what, why, and when to use fine-tuning.](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/fine-tuning-considerations)
+* An Azure subscription - [Create one for free.](https://azure.microsoft.com/free/cognitive-services)
+* An [Azure AI project](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/create-projects) in Azure AI Foundry portal.
+* Prepare Training and Validation datasets:
+  * at least 70 high-quality samples (preferably 1,000s) are required.
+  * must be formatted in the JSON Lines (JSONL) document with UTF-8 encoding.
+
+You can check the MS Learn document [here](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio) for more details.
+
+---
+
+### Step 1: Create a Project in Azure AI Foundry
+
+1. Navigate to https://ai.azure.com/ and sign in with your Azure credentials.
+2. On the landing page, click the **+ Create new** button in the top-right corner to create a new project.
+<ol><img src="../images/screenshot-create-project.png" alt="Screenshot of creating a new project in Azure AI Foundry" width="600"/></ol>
+
+3. Provide a name for your project, configure other settings such as region, resource group etc., and then select **Create**.  
+<ol><img src="../images/screenshot-create-project-config.png" alt="Screenshot of configuring the project settings" width="600"/></ol>
+
+---
+
+### Step 2: Launch the *Fine-tune with your own data* Wizard
+
+1. Inside your project, go to the **Fine-tuning** pane.
+2. Click **Fine-tune model** to open the wizard.
+<ol><img src="../images/screenshot-launch-finetune-wizard.png" alt="Screenshot of launching the fine-tune wizard" width="600"/></ol>
+
+---
+
+### Step 3: 
