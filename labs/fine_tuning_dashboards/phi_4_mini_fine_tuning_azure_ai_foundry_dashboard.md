@@ -148,22 +148,11 @@ You can check the deployment status from the **Models+endpoint** under **My asse
 
 2. You can also **consume** the deployed model via the API.
 <ol><img src="../images/screenshot-os-ft-phi4mini-fine-tuned-model-api-test.png" alt="Screenshot of consuming deployed fine-tuned model via api" width="600"/></ol>
-   
 
+---
 
+### Step 15 (Optional): *Clean up* resources
 
+Delete deployments, models, and datasets when no longer needed to avoid unnecessary costs.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> 📌 *Attention: as the model is deployed to the Managed Compute under your subscription, you will be charged by the GPU running hours. Please be cautious of the cost!*
