@@ -133,13 +133,22 @@ Once training completes, you can deploy the fine-tuned model as an Management On
 ### Step 13: *Check* the Deployment Status
 
 You can check the deployment status from the **Models+endpoint** under **My assets** Pane.
+<ol><img src="../images/screenshot-os-ft-phi4mini-deploy-fine-tuned-model-status.png" alt="Screenshot of deploying model status" width="600"/></ol>
 
 > ⏱️ *It will take some time for the deployment process to finish properly.*
 
+<ol><img src="../images/screenshot-os-ft-phi4mini-deploy-fine-tuned-model-complete.png" alt="Screenshot of deploying model status = complete" width="600"/></ol>
+
 ---
 
-### Step 14: *Test* the Deployed Model via UI or API
+### Step 14: *Test* the Deployed Fine-Tuned Model via UI or API
 
+1. You can directly **test** the deployed model via the simple UI.
+<ol><img src="../images/screenshot-os-ft-phi4mini-fine-tuned-model-ui-test.png" alt="Screenshot of consuming deployed fine-tuned model via ui" width="600"/></ol>
+
+2. You can also **consume** the deployed model via the API.
+<ol><img src="../images/screenshot-os-ft-phi4mini-fine-tuned-model-api-test.png" alt="Screenshot of consuming deployed fine-tuned model via api" width="600"/></ol>
+   
 
 
 
