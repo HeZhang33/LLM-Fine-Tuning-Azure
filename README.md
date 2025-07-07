@@ -2,6 +2,9 @@
 **Fine-Tuning LLMs on Azure** is a modular, beginner-to-expert-friendly guide for customizing both OpenAI and open-source language models using Azure. Designed for Data Scientists, Machine Learning Engineers, and even those without a deep technical background, this repository offers a clear, scalable path to mastering LLM fine-tuning with practical, real-world examples on the Azure cloud platform.
 
 ## New
+🔥 New (2025-07-07): Phi-4-mini Fine-Tuning using Azure Python SDK (Low-Code)
+<a href="labs/fine_tuning_notebooks/phi_fine_tuning/phi_4_mini_supervised_fine_tuning_for_text_qa.ipynb">[Jump to the demo]</a>
+
 🔥 New (2025-06-26): Phi-4-mini Fine-Tuning using Azure AI Foundry UI Dashboard (No-Code)
 <a href="labs/fine_tuning_dashboards/phi_4_mini_fine_tuning_azure_ai_foundry_dashboard.md">[Jump to the demo]</a>
 
@@ -85,6 +88,7 @@ You may consider Fine-Tuning when:
 - [Lab 2.5](labs/fine_tuning_notebooks/gpt_fine_tuning/gpt_4o_dpo_fine_tuning.ipynb): DPO Fine-Tuning GPT-4o Model (*2h duration*)
 - [Lab 2.6](labs/fine_tuning_notebooks/llama_fine_tuning/llama_2_7b_fine_tuning.ipynb): Supervised Fine-Tuning Llama2 Model (*2h duration*)
 - [Lab 2.7](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning.ipynb): Supervised Fine-Tuning Phi-3 Model (*2h duration*)
+- [Lab 2.8](labs/fine_tuning_notebooks/phi_fine_tuning/phi_4_mini_supervised_fine_tuning_for_text_qa.ipynb): Supervised Fine-Tuning Phi-4 Model (*2h duration*)
 
 **Lab 3: LLM Fine-Tuning via *Open Source Tools***
 - [Lab 3.1](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_lora.ipynb): Supervised Fine-Tuning Phi-3 Model using LoRA (*3h duration*)
