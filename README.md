@@ -2,13 +2,13 @@
 **Fine-Tuning LLMs on Azure** is a modular, beginner-to-expert-friendly guide for customizing both OpenAI and open-source language models using Azure. Designed for Data Scientists, Machine Learning Engineers, and even those without a deep technical background, this repository offers a clear, scalable path to mastering LLM fine-tuning with practical, real-world examples on the Azure cloud platform.
 
 ## New
-🔥 New (2025-07-07): Phi-4-mini Fine-Tuning using Azure Python SDK (Low-Code)
-<a href="labs/fine_tuning_notebooks/phi_fine_tuning/phi_4_mini_supervised_fine_tuning_for_text_qa.ipynb">[Jump to the demo]</a>
+🔥 Updated (2025-07-27): Phi-3-mini Fine-Tuning using LoRA from Hugging Face TRL Open Source Python SDK (Pro-Code)
+<a href="labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_instruct_supervised_fine_tuning_for_text_qa_using_lora_from_hf_trl.ipynb">[Jump to the demo]</a>
 
 🔥 New (2025-06-26): Phi-4-mini Fine-Tuning using Azure AI Foundry UI Dashboard (No-Code)
 <a href="labs/fine_tuning_dashboards/phi_4_mini_fine_tuning_azure_ai_foundry_dashboard.md">[Jump to the demo]</a>
 
-🔥 Updated (2025-06-22): Llama3.2-11B Vision Fine-Tuning using Unsloth AI Open Source (Pro-Code) Python SDK
+🔥 Updated (2025-06-22): Llama3.2-11B Vision Fine-Tuning using Unsloth AI Open Source Python SDK (Pro-Code) 
 <a href="labs/fine_tuning_notebooks/llama_fine_tuning/llama3.2-11b-supervised-fine-tuning-for-vision-text-qa-using-unsloth.ipynb">[Jump to the notebook]</a>
 
 🔥 Updated (2025-06-14): GPT-4o DPO Fine-Tuning using Azure Machine Learning (Low-Code) Python SDK
@@ -95,6 +95,7 @@ You may consider Fine-Tuning when:
 - [Lab 3.2](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_4k_instruct_fine_tuning_using_qlora.ipynb):Supervised Fine-Tuning Phi-3 Model using Q-LoRA (*3h duration*)
 - [Lab 3.3](labs/fine_tuning_notebooks/phi_fine_tuning/phi_35_vision_instruct_fine_tuning_using_lora.ipynb): Supervised Fine-Tuning Phi-3.5 Vision Model using LoRA (*3h duration*)
 - [Lab 3.4](labs/fine_tuning_notebooks/llama_fine_tuning/llama3.2-11b-supervised-fine-tuning-for-vision-text-qa-using-unsloth.ipynb): Supervised Fine-Tuning Llama3.2-11B Vision Model using Unsloth AI Framework (*3h duration*)
+- [Lab 3.5](labs/fine_tuning_notebooks/phi_fine_tuning/phi_3_mini_instruct_supervised_fine_tuning_for_text_qa_using_lora_from_hf_trl.ipynb): Supervised Fine-Tuning Phi-3 Model using LoRA - Updated (*3h duration*)
 
 **Lab 4: LLM Model-Serving via *Open Source Tools* and *Azure Python SDK***
 - [Lab 4.1](/labs/model_serving_notebooks/deploy_deepseek_r1_1.5b_qwen_via_vllm_and_aml_endpoint.ipynb): Deploying and Serving DeepSeek-R1-1.5B using vLLM and AML Online Endpoint (*1h duration*)
